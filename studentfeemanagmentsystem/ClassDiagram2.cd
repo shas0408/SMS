@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="studentfeemanagmentsystem.delete">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAEAAACAAAJAAAACgAEASAAgAAAAAELAIAAAAAAA=</HashCode>
+      <FileName>delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.inquery" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAQCAAAAAAAACAAAACAEgwAAAAACAAAEAAAAA=</HashCode>
+      <FileName>inquery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.Login" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABQAAACAAAASAIAYAAAAEHAAAABAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.welcome">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABACRAASAYABgAAASoAAIKgADAABAAABEAABBIAAE=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.register" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAIACAAA4ABAAEGAAAAAAAAA=</HashCode>
+      <FileName>register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.searchstudent" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAg4AAAAEHAAAAAAAAA=</HashCode>
+      <FileName>searchstudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.submissionfee" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCAAAAQAASAABBCCAACACABSIAgwAAgAEHAAAAAAAIA=</HashCode>
+      <FileName>submissionfee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.update" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCAAAAAAASAAABCCEACAAABCIIg4AAgAEHAEAAAAAIA=</HashCode>
+      <FileName>update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.viewreport" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQIAAAQCABAAAAAACAAAACAIgxACgAAHACAAAAAAE=</HashCode>
+      <FileName>viewreport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABEICEGAQCYAAIAQ5kAEANQAECAAFQQEAAAABBMA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="studentfeemanagmentsystem.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

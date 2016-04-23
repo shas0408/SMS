@@ -1,0 +1,62 @@
+c:\users\y2d\documents\visual studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.delete.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Login.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.welcome.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Properties.Resources.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.register.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.searchstudent.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.submissionfee.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.update.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.viewreport.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.pdb
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.pdb
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.inquery.resources
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe.manifest
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.application
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe.manifest
+C:\Users\y2d\Documents\Visual Studio 2010\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.application
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.pdb
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.delete.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.inquery.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Login.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.welcome.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Properties.Resources.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.register.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.searchstudent.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.submissionfee.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.update.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.viewreport.resources
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.csproj.GenerateResource.Cache
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe.manifest
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.application
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.pdb
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe.manifest
+C:\Users\asus\Downloads\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.application
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.pdb
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe.manifest
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.application
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.exe
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\studentfeemanagmentsystem.pdb
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\bin\Debug\MySql.Data.dll
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.delete.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.inquery.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Login.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.welcome.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.Properties.Resources.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.register.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.searchstudent.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.submissionfee.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.update.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.viewreport.resources
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe.manifest
+E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.application
