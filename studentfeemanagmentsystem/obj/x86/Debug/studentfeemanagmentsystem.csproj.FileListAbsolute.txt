@@ -60,3 +60,5 @@ E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsyst
 E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.csproj.GenerateResource.Cache
 E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe.manifest
 E:\visual studio 2015\Projects\studentfeemanagmentsystem\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.application
+E:\visual studio 2015\Projects\SMS\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.exe
+E:\visual studio 2015\Projects\SMS\studentfeemanagmentsystem\obj\x86\Debug\studentfeemanagmentsystem.pdb
